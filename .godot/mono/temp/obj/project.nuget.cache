@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "pW3+WB5Zl9Z0fzRYVmD0anLjY4KHBEh3bgme4cqZ0Jpo/1O2O1IJwMKL1K3hfvLAMCqKG3BOaT6taDjnM2j4aA==",
+  "success": true,
+  "projectFilePath": "/home/roughnight/Projekte/Godot4Performance/Godot4Performance.csproj",
+  "expectedPackageFiles": [
+    "/home/roughnight/.nuget/packages/godot.sourcegenerators/4.2.0-beta.1/godot.sourcegenerators.4.2.0-beta.1.nupkg.sha512",
+    "/home/roughnight/.nuget/packages/godotsharp/4.2.0-beta.1/godotsharp.4.2.0-beta.1.nupkg.sha512",
+    "/home/roughnight/.nuget/packages/godotsharpeditor/4.2.0-beta.1/godotsharpeditor.4.2.0-beta.1.nupkg.sha512",
+    "/home/roughnight/.nuget/packages/microsoft.netcore.app.ref/6.0.23/microsoft.netcore.app.ref.6.0.23.nupkg.sha512",
+    "/home/roughnight/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.23/microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}

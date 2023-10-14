@@ -1,0 +1,17 @@
+/home/roughnight/Projekte/Godot4Performance/.godot/mono/temp/bin/Debug/Godot4Performance.deps.json
+/home/roughnight/Projekte/Godot4Performance/.godot/mono/temp/bin/Debug/Godot4Performance.runtimeconfig.json
+/home/roughnight/Projekte/Godot4Performance/.godot/mono/temp/bin/Debug/Godot4Performance.dll
+/home/roughnight/Projekte/Godot4Performance/.godot/mono/temp/bin/Debug/Godot4Performance.pdb
+/home/roughnight/Projekte/Godot4Performance/.godot/mono/temp/bin/Debug/GodotSharp.dll
+/home/roughnight/Projekte/Godot4Performance/.godot/mono/temp/bin/Debug/GodotSharpEditor.dll
+/home/roughnight/Projekte/Godot4Performance/.godot/mono/temp/obj/Debug/Godot4Performance.csproj.AssemblyReference.cache
+/home/roughnight/Projekte/Godot4Performance/.godot/mono/temp/obj/Debug/Godot4Performance.GeneratedMSBuildEditorConfig.editorconfig
+/home/roughnight/Projekte/Godot4Performance/.godot/mono/temp/obj/Debug/Godot4Performance.AssemblyInfoInputs.cache
+/home/roughnight/Projekte/Godot4Performance/.godot/mono/temp/obj/Debug/Godot4Performance.AssemblyInfo.cs
+/home/roughnight/Projekte/Godot4Performance/.godot/mono/temp/obj/Debug/Godot4Performance.csproj.CoreCompileInputs.cache
+/home/roughnight/Projekte/Godot4Performance/.godot/mono/temp/obj/Debug/Godot4Performance.csproj.CopyComplete
+/home/roughnight/Projekte/Godot4Performance/.godot/mono/temp/obj/Debug/Godot4Performance.dll
+/home/roughnight/Projekte/Godot4Performance/.godot/mono/temp/obj/Debug/refint/Godot4Performance.dll
+/home/roughnight/Projekte/Godot4Performance/.godot/mono/temp/obj/Debug/Godot4Performance.pdb
+/home/roughnight/Projekte/Godot4Performance/.godot/mono/temp/obj/Debug/Godot4Performance.genruntimeconfig.cache
+/home/roughnight/Projekte/Godot4Performance/.godot/mono/temp/obj/Debug/ref/Godot4Performance.dll

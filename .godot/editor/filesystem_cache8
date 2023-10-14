@@ -1,0 +1,11 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1697296968
+bullet_mesh.tres::ArrayMesh::1056130914751786282::1697285022::0::1::::<><>::
+bullet_test_multimesh.gd::GDScript::-1::1697296594::0::1::::<>Node2D<>::
+bullet_test_multimesh.tscn::PackedScene::4922845313387125705::1697296766::0::1::::<><>::res://bullet_test_multimesh.gd<>uid://pbuk7crrxv03::::res://bullet_mesh.tres<>uid://cm8mkxifjebm5::::res://assets/bullet.png
+bullet_test_multimesh_sharp.cs::CSharpScript::-1::1697296737::0::1::::<><>::
+bullet_test_multimesh_sharp.tscn::PackedScene::4111300857611173614::1697296767::0::1::::<><>::res://bullet_test_multimesh_sharp.cs<>uid://pbuk7crrxv03::::res://bullet_mesh.tres<>uid://cm8mkxifjebm5::::res://assets/bullet.png
+icon.svg::CompressedTexture2D::7092831858635381481::1697296929::1697296968::1::::<><>::
+README.md::TextFile::-1::1697296848::0::1::::<><>::
+::res://assets/::1697296895
+bullet.png::CompressedTexture2D::4122580082908663069::1697281511::1697296968::1::::<><>::
