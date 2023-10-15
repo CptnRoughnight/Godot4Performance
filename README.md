@@ -17,6 +17,8 @@ Results: Spawning&moving Sprites before the fps drops under 60fps.
 
 (My testing machine : Ryzen 7 5800X,32gRam,Radeon 6600XT, Linux!)
 
+You can alter the num of sprites in the editor as a property!
+
 # Improvements
 If anyone has tips and tricks to increase performance even further, please let me know :)
 
