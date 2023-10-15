@@ -1,0 +1,8 @@
+[configuration]
+
+entry_symbol = "hello_world_init"
+compatibility_minimum = 4.1
+
+[libraries]
+linux.debug.x86_64 = "res://bin/libHelloWorld.linux.template_debug.x86_64.so"
+linux.release.x86_64 = "res://bin/libHelloWorld.linux.template_debug.x86_64.so"

@@ -1,4 +1,4 @@
 res://bullet_test_multimesh.tscn
 res://bullet_test_multimesh_sharp.tscn
-res://bullet_test_multimesh_sharp.cs
-res://bullet_test_multimesh.gd
+res://bullet_test_gdextension.tscn
+res://bullet_test_gdextension_multi.tscn

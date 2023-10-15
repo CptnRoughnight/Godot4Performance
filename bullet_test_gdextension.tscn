@@ -1,0 +1,33 @@
+[gd_scene load_steps=5 format=3 uid="uid://com7f4ha8jmlm"]
+
+[ext_resource type="Texture2D" uid="uid://by0aj6e8c1jg4" path="res://assets/bullet.png" id="1_86dyt"]
+[ext_resource type="Script" path="res://Debug.gd" id="2_pn3e8"]
+
+[sub_resource type="SystemFont" id="SystemFont_4n3c8"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_rhys3"]
+font = SubResource("SystemFont_4n3c8")
+font_size = 20
+font_color = Color(0.701961, 0, 0.705882, 1)
+outline_size = 3
+outline_color = Color(0, 0, 0, 1)
+
+[node name="Bullets" type="Bullets"]
+sprite = ExtResource("1_86dyt")
+numSprites = 100000
+
+[node name="Debug" type="CanvasLayer" parent="."]
+script = ExtResource("2_pn3e8")
+
+[node name="HBoxContainer" type="HBoxContainer" parent="Debug"]
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="FPS" type="Label" parent="Debug/HBoxContainer"]
+layout_mode = 2
+
+[node name="Bullets" type="Label" parent="Debug/HBoxContainer"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_colors/font_outline_color = Color(0.572549, 0.196078, 0.164706, 1)
+label_settings = SubResource("LabelSettings_rhys3")

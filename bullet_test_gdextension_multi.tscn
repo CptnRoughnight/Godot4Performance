@@ -1,0 +1,35 @@
+[gd_scene load_steps=6 format=3 uid="uid://4xd58lapo273"]
+
+[ext_resource type="Texture2D" uid="uid://by0aj6e8c1jg4" path="res://assets/bullet.png" id="1_0s5qm"]
+[ext_resource type="ArrayMesh" uid="uid://pbuk7crrxv03" path="res://bullet_mesh.tres" id="2_bxnf5"]
+[ext_resource type="Script" path="res://Debug.gd" id="3_w84ai"]
+
+[sub_resource type="SystemFont" id="SystemFont_4n3c8"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_fqnmp"]
+font = SubResource("SystemFont_4n3c8")
+font_size = 20
+font_color = Color(0.701961, 0, 0.705882, 1)
+outline_size = 3
+outline_color = Color(0, 0, 0, 1)
+
+[node name="BulletMulti" type="BulletMulti"]
+sprite = ExtResource("1_0s5qm")
+numSprites = 160000
+mesh = ExtResource("2_bxnf5")
+
+[node name="Debug" type="CanvasLayer" parent="."]
+script = ExtResource("3_w84ai")
+
+[node name="HBoxContainer" type="HBoxContainer" parent="Debug"]
+offset_right = 40.0
+offset_bottom = 40.0
+
+[node name="FPS" type="Label" parent="Debug/HBoxContainer"]
+layout_mode = 2
+
+[node name="Bullets" type="Label" parent="Debug/HBoxContainer"]
+layout_mode = 2
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_colors/font_outline_color = Color(0.572549, 0.196078, 0.164706, 1)
+label_settings = SubResource("LabelSettings_fqnmp")
