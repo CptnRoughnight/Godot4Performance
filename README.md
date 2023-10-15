@@ -15,7 +15,7 @@ Results: Spawning&moving Sprites before the fps drops under 60fps.
 
 160000 bullets with GDExtension (MultiMeshInstance2D)
 
-(My testing machine : Ryzen 7 5800X,32gRam,Radeon 6600XT)
+(My testing machine : Ryzen 7 5800X,32gRam,Radeon 6600XT, Linux!)
 
 # Improvements
 If anyone has tips and tricks to increase performance even further, please let me know :)
